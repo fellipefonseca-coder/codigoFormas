@@ -1,0 +1,7 @@
+abstract class Forma {
+    public abstract double calcularArea();
+
+    public double calcularArea(double valor1, double valor2) {
+        return 0;
+    }
+}
